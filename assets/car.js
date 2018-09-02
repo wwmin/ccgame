@@ -3,7 +3,7 @@ cc.Class({
 
   properties: {
     userId: 20,
-    userName: "wwmin love liyue",
+    userName: "hello cocos game.",
     carNode: {
       type: cc.Node,
       default: null,
